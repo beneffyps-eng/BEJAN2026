@@ -12,6 +12,6 @@
         <nav>
             <a href="index.php">Home</a>
             <a href="simpleinterest.php">Simple Interest</a>
-            <a href="">Compound Interest</a>
+            <a href="compoundint.php">Compound Interest</a>
         </nav>
     </header>
